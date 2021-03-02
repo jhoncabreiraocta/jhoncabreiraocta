@@ -2,10 +2,10 @@
 
 ## I am an electrical engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
-- 💻 Atualmente venho desenvolvendo meu porfolio de data science
-- 💻 Publico toda semana no medium
-- 📈 Desenvolvo projetos voltados para o mercado financeiro
-- 📊 IEstou sempre a disposição para contribuir  
+- 💻 I’m currently working as a Data Science Instructor
+- 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
+- 📈 I’m constantly learning and Improving my skills 🤣
+- 📊 I’m looking to collaborate with other Data Scientists and developers 
 
 ### Connect with me:
 
@@ -57,7 +57,7 @@
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jhoncabreiraocta&show_icons=true&hide_border=true" />
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@cabreirajm
 [linkedin]: linkedin.com/in/cabreirajm
